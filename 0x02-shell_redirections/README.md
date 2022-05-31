@@ -22,3 +22,4 @@
 21-reverse: Reverse input
 22-users_and_homes: Lists users and home directories.
 100-empty_casks: Deletes all empty files and directories
+101-gifs: Lists .gif files
